@@ -13,3 +13,11 @@ print(my_name)
 
 myAge = 26
 myHeight = 1.68
+
+#calculations
+print(25 * 68 + 13 / 28)
+
+#exponents 
+print(6 ** 2)
+
+#modulo
