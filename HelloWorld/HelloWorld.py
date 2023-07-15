@@ -21,3 +21,4 @@ print(25 * 68 + 13 / 28)
 print(6 ** 2)
 
 #modulo
+print(19%5)
